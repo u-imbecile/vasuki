@@ -1,0 +1,50 @@
+body{
+    background-color: #1A1A19;
+    margin: 0 0;
+}
+.chokokutai-regular {
+    font-family: "Chokokutai", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: beige;
+  }
+  .top{
+    background-color: #000000;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
+  .topLogo{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+  }
+  .topButton{
+    background-color: #363634;
+    color: rgb(188, 188, 177);
+    margin-right: 16px;
+  }
+  .topRight{
+    padding-top: 30px;
+    float: right;
+    margin-right: 300px;
+  }
+  .secRowImg{
+    float: right;
+    height:400px; 
+    width:400px;
+    border: 5px solid #000000; 
+    border-radius: 10px;
+  }
+  .secRowText{
+    color: rgb(183, 189, 189);
+  }
+  p{
+    color: rgb(183, 189, 189);
+    font-size: 18px;
+  }
+  footer{
+    background-color: #000000;
+    color: bisque;
+    font-size: 20px;
+    padding-bottom: 0px;
+  }
